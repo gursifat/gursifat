@@ -23,6 +23,6 @@ I am a Graduate and Software Developer Engineer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [gursifat07@gmail.com](mailto:gursifat07@@gmail.com)
-* 🧠  I'm learning MERN Stack and Data Structure Algorithms in Java
+* 🧠  I'm learning Data Structure Algorithms in Java.
 * 🤝  I'm open to collaborating on interesting projects
 
